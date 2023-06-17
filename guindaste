@@ -1,0 +1,27 @@
+#include <stdio.h>
+#include <stdlib.h> 
+int main(){
+    printf("             .____.  \t\t\t\t\t---PROGRAMA DE INDICAÇÃO DOS GUINDASTES---\n");
+	printf("          .  |####|   . \n");
+	printf("        .    |####|     . \n");
+	printf("      .      |####|       .\n");
+	printf("   |===============================|\n");
+	printf("   |###############################|\n");
+	printf("   |===============================|\n");
+	printf("             |____|          |###|  \n" );
+	printf("             |    |          |###|  \n");
+	printf("             |____|          |###|  \n");
+	printf("             |____|          ----- \n");
+	printf("             |    |            |    \n");
+	printf("             |____|            |    \n");
+	printf("             |____|            |    \n");
+	printf("             |    |           . . \n");
+	printf("             |____|          .   . \n");
+	printf("             |____|         .     .  \n");
+	printf("             |    |    |################|\n");
+	printf("             |____| \n");
+	printf("             |____| \n");
+	printf("             |    | \n");
+	printf("             |____| \n");
+	printf("             |____| \n");
+}
